@@ -1,5 +1,8 @@
 _repo: Constipation-and-its-correction-by-exercise_75870
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75870-h/images/cover.jpg
 creator:
   author:
     agent_name: Benson, C. O.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/486
     wikipedia: https://en.wikipedia.org/wiki/E._Haldeman-Julius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75870#Constipation-and-its-correction-by-exercise
 gutenberg_issued: '2025-04-15'
 gutenberg_type: Text
 identifiers:
